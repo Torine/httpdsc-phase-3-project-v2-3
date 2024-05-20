@@ -3,9 +3,6 @@
 
 # FORECAST INDIVIDUALS' H1N1 AND SEASONAL FLU VACCINE UPTAKE
 
-![image](https://github.com/PennyGituku/dsc-phase-3-project-v2-3/assets/133040605/e179987b-b3aa-4b98-8c63-4558c623f724)
-
-
 
 # TABLE OF CONTENTS
 
